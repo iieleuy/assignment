@@ -1,0 +1,14 @@
+C:\Users\iixun\Desktop\assigment\bin\Debug\net8.0\assigment.exe
+C:\Users\iixun\Desktop\assigment\bin\Debug\net8.0\assigment.deps.json
+C:\Users\iixun\Desktop\assigment\bin\Debug\net8.0\assigment.runtimeconfig.json
+C:\Users\iixun\Desktop\assigment\bin\Debug\net8.0\assigment.dll
+C:\Users\iixun\Desktop\assigment\bin\Debug\net8.0\assigment.pdb
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\assigment.AssemblyInfoInputs.cache
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\assigment.AssemblyInfo.cs
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\assigment.csproj.CoreCompileInputs.cache
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\assigment.dll
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\refint\assigment.dll
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\assigment.pdb
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\assigment.genruntimeconfig.cache
+C:\Users\iixun\Desktop\assigment\obj\Debug\net8.0\ref\assigment.dll
